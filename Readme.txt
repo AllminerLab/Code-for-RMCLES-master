@@ -16,6 +16,7 @@ The tunable parameters about different datasets are listed as follows:
 10.Citeseer   d=60 , alpha=6 ,beta=0.1 ,gamma=0.004, K= tanh(1*(H'*H)+1)
 
 References:
- "Relaxed Multi-view Clustering in Latent Embedding Space" 
+ Man-Sheng Chen, Ling Huang, Chang-Dong Wang, Dong Huang, Jian-Huang Lai. "Relaxed multi-view clustering in latent embedding space". Information Fusion 2021
+
 Written by: Mansheng Chen, chenmsh27@mail2.sysu.edu.cn
  2020-10-20
